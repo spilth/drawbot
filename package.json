@@ -10,10 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "faker": "^3.1.0",
     "slackbots": "^0.5.1"
   },
   "devDependencies": {
-    "faker": "^3.1.0",
     "jasmine": "^2.4.1"
   }
 }
