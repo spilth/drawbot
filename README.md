@@ -1,3 +1,5 @@
+[![Circle CI](https://circleci.com/gh/spilth/drawbot.svg?style=svg)](https://circleci.com/gh/spilth/drawbot)
+
 # Drawbot
 
 A Slackbot that offers random things for you to draw.
